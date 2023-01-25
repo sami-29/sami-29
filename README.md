@@ -1,8 +1,8 @@
 # 😎 Bentaleb Sami
 **`Junior Frontend Developer`** 
 
-I'm Bentaleb Sami, a 20 year old algerian computer science student at the university of Badji Moukhtar Annaba i am currently third year which means i'll get my license diploma this year.
-I am also mostly a self taught web developer with 2-3 years of experience programming i started out with python, just solving leet code and project euler problems and fun projects, then i wanted to specialize in web development and i found the easier way is to start with frontend so i did just that. 
+Hello, I'm Sami Bentaleb
+I'm a 20-year-old computer science student at the University of Badji Moukhtar Annaba, currently in my third year, on track to earn my diploma. I'm also a self-taught web developer with 3 years of experience, specializing in frontend development. However, I also have a good understanding of backend development. I started my programming journey by solving problems on LeetCode and Project Euler, and then moved on to web development. I'm a freelancer, always looking for new opportunities to improve my skills and work on exciting projects.
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/sami-bentaleb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
