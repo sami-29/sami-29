@@ -1,8 +1,8 @@
 # 😎 Bentaleb Sami
-**`Junior Frontend Developer`** 
+**`Full-stack Developer`** 
 
 Hello, I'm Sami Bentaleb
-I'm a 21-year-old computer science student at the University of Badji Moukhtar Annaba, currently in my 4th year, on track to earn my masters diploma. I'm also a self-taught web developer with 4 years of experience, specializing in Full-stack development. I started my programming journey by solving problems on LeetCode and Project Euler, and then moved on to web development. I'm a freelancer, always looking for new opportunities to improve my skills and work on exciting projects.
+I'm a full-stack web developer with over 4 years of experience in freelancing and personal projects. My expertise lies in creating interactive websites, startups, and web applications. I specialize in both front-end and back-end technologies, as well as general programming skills ensuring efficient and user-friendly digital solutions from concept to deployment.
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/sami-bentaleb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
